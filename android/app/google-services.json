@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598762565512",
+    "project_id": "flutter-vpn-bdc05",
+    "storage_bucket": "flutter-vpn-bdc05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598762565512:android:c2cf699af2289c76d4943d",
+        "android_client_info": {
+          "package_name": "com.example.app_vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598762565512-7df7nd5o3b26jsdvbld3f858hgputuje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj9IrZo1xUngrptcSbFA3LZniaPOWgQ8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598762565512-7df7nd5o3b26jsdvbld3f858hgputuje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
